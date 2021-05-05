@@ -18,3 +18,8 @@ pip install numpy
 And to install win32api, just type in the terminal:
 
 pip install win32api
+
+And to install pillow, type in the terminal:
+
+pip install pillow
+
